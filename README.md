@@ -1,10 +1,10 @@
-# TikTuk :)
+# Two Themes Demo
 
 This project is a Homework for [Genesis](https://gen.tech) Front-End School.
 
 ## In Brief
 
-The main goal of this project is to apply theming by using [Styled Components](https://https://styled-components.com/) library.
+The main goal of this project is to apply theming by using [Styled Components](https://styled-components.com) library.
 
 ## How to run
 
